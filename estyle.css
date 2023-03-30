@@ -210,7 +210,7 @@ nav ul li ul li a:hover{
         transition: all 700ms ease;
         z-index: 100;
         opacity: 0;
-        visibility: visible;
+        visibility: hidden;
     }
 
     nav > ul > li > a:hover{
